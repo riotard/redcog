@@ -3,4 +3,4 @@ from .rio import Rio
 
 
 def setup(bot):
-    bot.add_cog(Skyrim())
+    bot.add_cog(Rio())

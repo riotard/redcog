@@ -1,5 +1,5 @@
 from redbot.core import data_manager
-from .skyrim import Skyrim
+from .riotard import Riotard
 
 
 def setup(bot):

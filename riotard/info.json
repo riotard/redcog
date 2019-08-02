@@ -1,0 +1,8 @@
+{
+    "author" : ["Rio"],
+    "install_msg" : "`[p]help Rio`",
+    "name" : "Rio",
+    "short" : "says a random Rio quote.",
+    "description" : "say a random rio quote",
+    "tags" : ["rio"]
+}

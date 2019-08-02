@@ -1,5 +1,5 @@
 from redbot.core import data_manager
-from .riotard import Riotard
+from .rio import Rio
 
 
 def setup(bot):

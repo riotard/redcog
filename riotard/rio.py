@@ -8,7 +8,7 @@ from redbot.core.data_manager import bundled_data_path
 Cog = getattr(commands, "Cog", object)
 
 
-class Riotard(Cog):
+class Rio(Cog):
     """
     Says a random rio quote.
     """
